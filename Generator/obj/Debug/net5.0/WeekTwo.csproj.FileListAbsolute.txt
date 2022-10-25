@@ -1,0 +1,16 @@
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.csproj.AssemblyReference.cache
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.AssemblyInfoInputs.cache
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.AssemblyInfo.cs
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.csproj.CoreCompileInputs.cache
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\bin\Debug\net5.0\WeekTwo.exe
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\bin\Debug\net5.0\WeekTwo.deps.json
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\bin\Debug\net5.0\WeekTwo.runtimeconfig.json
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\bin\Debug\net5.0\WeekTwo.runtimeconfig.dev.json
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\bin\Debug\net5.0\WeekTwo.dll
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\bin\Debug\net5.0\WeekTwo.pdb
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.dll
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\refint\WeekTwo.dll
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.pdb
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\WeekTwo.genruntimeconfig.cache
+C:\Users\Iyanu Atoyebi\source\repos\WindowsApp1\Lister generator\Generator\obj\Debug\net5.0\ref\WeekTwo.dll
